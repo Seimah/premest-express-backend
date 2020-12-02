@@ -1,0 +1,3 @@
+Username = sandra
+Password = u26ZD5bxVLMDTnz
+Database connection = mongodb+srv://sandra:<password>@cluster0.ssxwg.mongodb.net/<dbname>
